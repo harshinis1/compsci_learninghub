@@ -1,0 +1,1 @@
+A collection of code-based explorations of core mathematical concepts from calculus, linear algebra, probability, statistics and related areas of computer science. The goal of this repository is to strengthen intuition through implementation: visualizations, numerical methods, and projects that apply  mathematical theory into code.
