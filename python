@@ -1,1 +1,6 @@
-The files in this repo consist of mathematical concepts in calculus, linear algebra, probability and statistics in code
+The files in this repo consist of mathematical concepts in calculus, linear algebra, probability, statistics and theoretical areas of computer science in code
+Linear Algebra concepts include:
+  - Matrices and Vectors
+  - Transformations
+  - Eigenvectors and eigenspaces
+  - Vector spaces
